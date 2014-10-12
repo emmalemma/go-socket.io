@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/googollee/go-engine.io"
+	"github.com/cushman/go-engine.io"
 	"io"
 	"io/ioutil"
 	"strconv"
